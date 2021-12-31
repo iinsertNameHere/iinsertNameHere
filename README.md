@@ -4,7 +4,7 @@
 ## I'm a Hobby developer!!
 
 - 🌱 I’m currently learning C++ 🤣
-- 🥅 Goals: Write a own compiler with c++.
+- 🥅 Goals: Write a own compiler with C++.
 
 <br />
 
@@ -31,7 +31,7 @@
 ### 📕 Latest Projects
 
 <details>
-  <summary>:zap: A VM like jvm. </summary>
+  <summary>:zap: A VM like jvm written in C. </summary>
   
 <!--START_SECTION:activity-->
 [----| 🗣 Features |----]
