@@ -68,7 +68,7 @@
 [GitHub]: https://github.com/topics/github
 [Term]: https://github.com/topics/terminal
 [C++]: https://github.com/topics/cpp
-[C]: https://github.com/topics/c
+[C]: https://github.com/topics/c-language
 [C#]: https://github.com/topics/csharp
 [Python]: https://github.com/topics/python
 [Linux]: https://github.com/topics/linux
