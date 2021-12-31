@@ -26,8 +26,24 @@
 
 ---
 
-### 📕 Latest Project
+### 📕 Latest Projects
 
+<details>
+  <summary>:zap: A VM like jvm. </summary>
+  
+<!--START_SECTION:activity-->
+[----| 🗣 Features |----]
+  
+- - [x] Asm language for the vm.
+- - [x] Error handling
+- - [x] Bytecode compiler.
+- - [x] Disassembler for the bytecode.
+  
+[----| 📥 Download |----]
+  - [:package: Klick here](https://github.com/iinsertNameHere/Slick)
+<!--END_SECTION:activity-->
+
+</details>
 <details>
   <summary>:zap: A small Kernel written in C++, C and asm</summary>
   
