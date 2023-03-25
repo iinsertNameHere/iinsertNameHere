@@ -42,7 +42,7 @@
 - - [x] Disassembler for the bytecode.
   
 [----| 📥 Download |----]
-  - [:package: Klick here](https://github.com/iinsertNameHere/Slick)
+  - [:package: Klick here](https://github.com/iinsertNameHere/MVM)
 <!--END_SECTION:activity-->
 
 </details>
