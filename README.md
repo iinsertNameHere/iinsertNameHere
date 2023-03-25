@@ -3,8 +3,8 @@
 
 ## I'm a Hobby developer!!
 
-- 🌱 I’m currently learning C++ 🤣
-- 🥅 Goals: Write a own compiler with C++.
+- 🌱 I’m currently Working on HackyCat-C2 🤣
+- 🥅 Goals: Finish HackyCat-C2.
 
 <br />
 
@@ -47,18 +47,18 @@
 
 </details>
 <details>
-  <summary>:zap: A small Kernel written in C++, C and asm</summary>
+  <summary>:zap: A simple Python HTTP C2 Framework</summary>
   
 <!--START_SECTION:activity-->
 [----| 🗣 Features |----]
   
-- - [x] A small Shell
-- - [x] Error handling
-- - [x] 86x-64x
-- - [x] Paging
+- - [x] A tool to generate Payloads (reverse_http)
+- - [x] A C2 Flask Server (C2 api)
+- - [x] A Tool to control Payloads that are connected to the server
+- - [x] A Cross Platform (windows/linux)
   
-[----| 📥 Download |----]
-  - [:package: Klick here](https://iinsertnamehere.github.io/ivy-os-web/)
+[----| 📥 Repo |----]
+  - [:package: Klick here](https://github.com/iinsertNameHere/HackyCat--C2)
 <!--END_SECTION:activity-->
 
 </details>
