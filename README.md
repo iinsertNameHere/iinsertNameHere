@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iinsertNameHere&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Random Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iinsertNameHere&icon=0&color=0)](https://visitcount.itsvg.in)
