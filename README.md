@@ -1,4 +1,4 @@
-![](https://visitcount.itsvg.in/api?id=iinsertNameHere&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=iinsertNameHere&icon=0&color=12)
 # 💫 About Me:
 🔭 I’m currently mainly using python<br>👯 I’m looking to collaborate on every of my Projects<br>🌱 I’m currently learning asm<br>⚡ I LOVE DUCKS
 
