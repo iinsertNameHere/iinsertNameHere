@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=iinsertNameHere&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently mainly using python<br>👯 I’m looking to collaborate on every of my Projects<br>🌱 I’m currently learning asm<br>⚡ I LOVE DUCKS
 
@@ -11,8 +12,3 @@
 
 # 👾 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=iinsertNameHere&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
