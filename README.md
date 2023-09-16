@@ -1,4 +1,7 @@
-![](https://visitcount.itsvg.in/api?id=iinsertNameHere&icon=0&color=12)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey there, i am iinsert!;https://iinsert.github.io/&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 # 💫 About Me:
 Hi, call me iinsert
 
