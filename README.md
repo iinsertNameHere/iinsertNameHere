@@ -5,7 +5,7 @@
 # 💫 About Me:
 Hi, call me [iinsert](https://businessducks.onrender.com)
 
-🔭 I’m currently mainly using python<br>👯 I’m looking to collaborate on every of my Projects<br>🌱 I’m currently learning asm<br>⚡ I LOVE DUCKS
+🔭 I’m currently mainly using nim and python<br>👯 I’m looking to collaborate on every of my Projects<br>🌱 I’m currently learning nim<br>⚡ I LOVE DUCKS
 
 
 # 💻 Tech Stack:
@@ -14,9 +14,8 @@ Hi, call me [iinsert](https://businessducks.onrender.com)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iinsertNameHere&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iinsertNameHere&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iinsertNameHere&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/?username=iinsertNameHere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iinsertNameHere&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 👾 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
