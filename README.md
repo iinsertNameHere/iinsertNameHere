@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-Hi, call me [iinsert](https://businessducks.onrender.com)
+Hi, call me iinsert
 
 🔭 I’m currently mainly using nim and python<br>👯 I’m looking to collaborate on every of my Projects<br>🌱 I’m currently learning nim<br>⚡ I LOVE DUCKS
 
