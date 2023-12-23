@@ -7,7 +7,7 @@
 ## 📃 Facts:
 - 💬 My favorite language is `Nim👑`
 - 🐧 I use Linux btw
-- 🍕 Programing is just a Hobby
+- 🧠 Self-taught hobby programmer
 - 🐈‍⬛ I fucking love Cats
   
 ## 💻 Tech Stack:
