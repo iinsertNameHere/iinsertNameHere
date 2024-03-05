@@ -9,6 +9,8 @@
 - 🐧 I use Linux btw
 - 🧠 Self-taught hobby programmer
 - 🐈‍⬛ I fucking love Cats
+
+View my [Gists](https://gist.github.com/iinsertNameHere)!
   
 ## 💻 Tech Stack:
 ### Languages
