@@ -21,12 +21,13 @@ View my [Gists](https://gist.github.com/iinsertNameHere)!
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/Powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
 
-### Frameworks/Tools
+### Frameworks/Tools/Libs
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
+<img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white"> 
 
 ### Other
-<img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/RPi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/RPi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white">
 
 ## 📊 GitHub Stats:
 <p align="left">
