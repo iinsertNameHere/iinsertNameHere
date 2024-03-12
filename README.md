@@ -15,9 +15,12 @@ View my [Gists](https://gist.github.com/iinsertNameHere)!
 #### How to reach me:
 > iinsertt@proton.me
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/?username=iinsertNameHere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"><br>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iinsertNameHere&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+
 ## 💻 Tech Stack:
-### Languages
-<img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+### Language
+![]("https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white") ![]("https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white")
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/Powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
 
@@ -28,12 +31,6 @@ View my [Gists](https://gist.github.com/iinsertNameHere)!
 ### Other
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/RPi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-
-## 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/?username=iinsertNameHere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iinsertNameHere&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
 
 ## 👾 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
