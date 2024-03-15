@@ -15,8 +15,8 @@ View my [Gists](https://gist.github.com/iinsertNameHere)!
 #### How to reach me:
 > iinsertt@proton.me
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/?username=iinsertNameHere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"><br>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iinsertNameHere&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iinsertNameHere&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><br>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=donut&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 ## 💻 Tech Stack:
 ### Language
