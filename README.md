@@ -16,7 +16,7 @@ View my [Gists](https://gist.github.com/iinsertNameHere)!
 > iinsertt@proton.me
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iinsertNameHere&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><br>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=donut&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iinsertNameHere&layout=donut&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 ## 💻 Tech Stack:
 ### Language
