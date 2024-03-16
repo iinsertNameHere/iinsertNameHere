@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey there, i am iinsert!;Have a look at my repos!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
-
----
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iinsertNameHere&bg_color=30,614385,516395&title_color=fff&text_color=fff"><br>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iinsertNameHere&layout=donut&bg_color=30,614385,516395&title_color=fff&text_color=fff">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hey there, i am iinsert!;Have a look at my repos!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 
 ### 📃 Facts:
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iinsertNameHere&bg_color=30,614385,516395&title_color=fff&text_color=fff">
+
 - 💬 My favorite language is `Nim👑
 - 🐧 I use Linux btw
 - 🧠 Self-taught hobby programmer
@@ -19,6 +15,9 @@ View my [Gists](https://gist.github.com/iinsertNameHere)!
 > iinsertt@proton.me
 
 ### 💻 Tech Stack:
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iinsertNameHere&layout=donut&bg_color=30,614385,516395&title_color=fff&text_color=fff">
+
+
 #### Language
 <img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
