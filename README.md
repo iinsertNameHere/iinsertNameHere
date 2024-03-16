@@ -2,7 +2,7 @@
 
 ### 📃 Facts:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iinsertNameHere&bg_color=30,614385,516395&title_color=fff&text_color=fff">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iinsertNameHere&bg_color=30,614385,516395&title_color=fff&text_color=fff&show_icons=true&icon_color=fff">
 
 - 💬 My favorite language is `Nim👑
 - 🐧 I use Linux btw
