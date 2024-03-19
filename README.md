@@ -9,8 +9,7 @@
 - 🧠 Self-taught hobby programmer
 - 🐈‍⬛ I fucking love Cats
 
-View my [Gists](https://gist.github.com/iinsertNameHere)!
-
+**View my [Gists](https://gist.github.com/iinsertNameHere)!**
 #### How to reach me:
 > iinsertt@proton.me
 
