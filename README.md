@@ -14,7 +14,7 @@
 > iinsertt@proton.me
 
 ### 💻 Tech Stack:
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iinsertNameHere&layout=donut&bg_color=30,614385,516395&title_color=fff&text_color=fff">
+<img align="right" width="50%" src="https://streak-stats.demolab.com?user=iinsertNameHere&background=30%2C614385%2C516395&stroke=FFFFFF&ring=FFFFFF&fire=3AE0FF&currStreakNum=3AE0FF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=3AE0FF&dates=A9A9A9">
 
 
 #### Language
@@ -29,6 +29,9 @@
 #### Other
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/RPi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+
+<br>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iinsertNameHere&layout=donut&bg_color=30,614385,516395&title_color=fff&text_color=fff">
 
 ## 👾 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
