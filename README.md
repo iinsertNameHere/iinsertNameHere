@@ -2,8 +2,8 @@
 
 ### 📃 Facts:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iinsertNameHere&bg_color=30,614385,516395&title_color=fff&text_color=fff&show_icons=true&icon_color=fff">
-<img align="right" width="50%" src="https://streak-stats.demolab.com?user=iinsertNameHere&background=30%2C614385%2C516395&stroke=FFFFFF&ring=FFFFFF&fire=3AE0FF&currStreakNum=3AE0FF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=3AE0FF&dates=A9A9A9&border=FFFFFF">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iinsertNameHere&bg_color=30,614385,516395&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&hide_border=true">
+<img align="right" width="50%" src="https://streak-stats.demolab.com?user=iinsertNameHere&background=30%2C614385%2C516395&stroke=FFFFFF&ring=FFFFFF&fire=3AE0FF&currStreakNum=3AE0FF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=3AE0FF&dates=A9A9A9&border=FFFFFF&hide_border=true">
 
 - 💬 My favorite language is `Nim👑`
 - 🐧 I use Linux btw
@@ -15,7 +15,7 @@
 > iinsertt@proton.me
 
 ### 💻 Tech Stack:
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iinsertNameHere&layout=donut&bg_color=30,614385,516395&title_color=fff&text_color=fff">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iinsertNameHere&layout=donut&bg_color=30,614385,516395&title_color=fff&text_color=fff&hide_border=true">
 
 #### Language
 <img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
