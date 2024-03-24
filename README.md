@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey there, i am iinsert!;Have a look at my repos!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.demolab.com/?font=Space%20Mono&lines=Hey%20there%2C%20i%20am%20iinsert%21">
 
 ### 📃 Facts:
 
