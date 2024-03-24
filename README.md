@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?font=Space%20Mono&lines=Hey%20there%2C%20i%20am%20iinsert%21">
+<img src="https://readme-typing-svg.demolab.com/?font=Space%20Mono&color=8458b8&lines=Hey%20there%2C%20i%20am%20iinsert%21">
 
 ### 📃 Facts:
 
