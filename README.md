@@ -12,7 +12,8 @@
 
 **View my [Gists](https://gist.github.com/iinsertNameHere)!**
 #### How to reach me:
-> contact@ketafor.fun
+> Email: contact@ketafor.fun
+> Website: https://ketafor.fun/
 
 ### 💻 Tech Stack:
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iinsertNameHere&layout=donut&bg_color=30,614385,516395&title_color=fff&text_color=fff&hide_border=true">
