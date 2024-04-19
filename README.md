@@ -33,4 +33,5 @@
 <img src="https://img.shields.io/badge/RPi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 
 ## 👾 Random Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+[//]: <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+<img src='https://ketafor.fun/randommeme.jpg' style="height: 300px;">
