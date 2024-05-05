@@ -31,6 +31,3 @@
 #### Other
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/RPi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-
-## 👾 Random Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
